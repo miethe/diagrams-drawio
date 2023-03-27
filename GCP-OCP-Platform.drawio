@@ -1,6 +1,6 @@
-<mxfile modified="2023-03-27T19:48:43.242Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sV078SX85Av3kCybZBDZ" version="21.1.1" type="github">
+<mxfile modified="2023-03-27T19:50:29.719Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VunW0FFzBHrVEre8EFOE" version="21.1.1" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
-    <mxGraphModel dx="4187" dy="2828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3181" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,7 +742,7 @@
         <mxCell id="bpgCYYgS-X53f8GgbDE2-38" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="173.41999999999996" y="1996.1399999999999" width="42.87" height="39.44" as="geometry" />
         </mxCell>
-        <mxCell id="bpgCYYgS-X53f8GgbDE2-45" value="Workloads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="bpgCYYgS-X53f8GgbDE2-45" value="Example Workloads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="77.91999999999996" y="1720" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTfheyKSVPR_iJoF9n_U-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://grafana.com/docs/loki/latest/logo_and_name.png;clipPath=inset(0.28% 30% 24.58% 31.33%);" parent="1" vertex="1">
